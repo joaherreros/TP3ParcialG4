@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP3ParcialG4</string>
+    <string name="btnInit">Get Started</string>
+
+    <string name="titleInit">Adopción de Perritos</string>
+
+    <string name="textInit1">Haz tu vida más feliz con nuestra ayuda para tener nuevas mascotas</string>
+    <string name="textInit2">Ayuda a conseguir un nuevo hogar estos perritos</string>
+    <string name="textInit3">Escribe tu historia de vida con tu nuevo compañero canino</string>
+</resources>
